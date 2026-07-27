@@ -164,3 +164,4 @@ Generative AI has transformed how humans create and interact with digital conten
 
 
 # Result
+Hence the Generative AI prompt engineering experiment by comparing responses from two AI tools and documenting the findings in a comprehensive report uploaded to GitHub.
